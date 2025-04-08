@@ -2,3 +2,4 @@ nftset=/2ip.ru/4#inet#fw4#vpn_domains
 nftset=/waw.su/4#inet#fw4#vpn_domains
 nftset=/sasisa.org/4#inet#fw4#vpn_domains
 nftset=/sasisa.me/4#inet#fw4#vpn_domains
+nftset=/sasisa.cc/4#inet#fw4#vpn_domains
